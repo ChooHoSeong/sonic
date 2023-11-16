@@ -1,4 +1,4 @@
-package com.example.test2233
+package com.example.sonic
 
 import io.flutter.embedding.android.FlutterActivity
 
